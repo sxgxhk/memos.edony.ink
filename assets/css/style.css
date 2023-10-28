@@ -602,6 +602,12 @@ footer {
     display: none !important;
 }
 
+.link {
+    color: var(--color-link);
+    cursor: pointer;
+    text-decoration: underline;
+}
+
 .filter{
 	display:none;
 }
