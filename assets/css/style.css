@@ -101,6 +101,9 @@ header {
 
 .title {
     font-size: 1.5rem;
+    margin: auto;
+    width: 50%;
+    font-style: bold;
 }
 
 .pages a {
@@ -606,6 +609,7 @@ footer {
     color: var(--color-link);
     cursor: pointer;
     text-decoration: underline;
+    font-style: italic;
 }
 
 .filter{
