@@ -613,3 +613,14 @@ footer {
 .filter{
 	display:none;
 }
+
+.memos__comments {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.memos__comments_font {
+    font-size: 1rem;
+}
