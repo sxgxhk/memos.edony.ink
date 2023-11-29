@@ -172,7 +172,7 @@ blockquote {
     flex-grow: 1;
     margin-left: 50px;
     position: relative;
-    max-width: 100%;
+    max-width: 80%;
     width: 100%;
 }
 
