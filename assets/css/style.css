@@ -361,6 +361,7 @@ blockquote {
 
 .tag-span {
     color: var(--color-tag);
+    margin-right: 6px;
 }
 
 .tag-span:hover {
