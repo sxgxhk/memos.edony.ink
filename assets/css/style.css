@@ -173,7 +173,7 @@ blockquote {
     flex-grow: 1;
     margin-left: 50px;
     position: relative;
-    max-width: 80%;
+    max-width: 88%;
     width: 100%;
 }
 
@@ -347,7 +347,7 @@ blockquote {
     box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000),var(--tw-ring-shadow, 0 0 #0000),var(--tw-shadow);
     -ms-overflow-style: none;
     scrollbar-width: none;
-    height: 202px;
+    height: auto;
 }
 
 .timeline img, .resimg img {
@@ -519,7 +519,7 @@ blockquote {
 @media (max-width: 683px) {
 
     body {
-        padding: 45px 50px 45px 20px;
+        padding: 45px 10px 45px 18px;
     }
 
     .menu,
